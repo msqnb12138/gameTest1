@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="/Srcs"/>
+    <qresource prefix="/"/>
+</RCC>

@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Srcs/Player/Right_Runing">
+        <file>Srcs/player/Right - Running/pic (1).png</file>
+        <file>Srcs/player/Right - Running/pic (2).png</file>
+        <file>Srcs/player/Right - Running/pic (3).png</file>
+        <file>Srcs/player/Right - Running/pic (4).png</file>
+        <file>Srcs/player/Right - Running/pic (5).png</file>
+        <file>Srcs/player/Right - Running/pic (6).png</file>
+        <file>Srcs/player/Right - Running/pic (7).png</file>
+        <file>Srcs/player/Right - Running/pic (8).png</file>
+        <file>Srcs/player/Right - Running/pic (9).png</file>
+        <file>Srcs/player/Right - Running/pic (10).png</file>
+        <file>Srcs/player/Right - Running/pic (11).png</file>
+        <file>Srcs/player/Right - Running/pic (12).png</file>
+    </qresource>
+</RCC>
